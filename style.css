@@ -1,0 +1,49 @@
+.content{
+    width: 500px;
+    height: 500px;
+}
+
+.left,right{
+    width: 50%;
+    float: left;
+    height:50%
+}
+
+.left{
+    background-color: greenyellow;
+}
+
+.right{
+    background-color: #ffa500;
+}
+
+h2
+{
+    text-align: center;
+
+}
+
+input{
+    width:45%;
+    height:20px;
+    border-radius: 10px;
+    background-color: greenyellow;
+}
+
+.input{
+    width: 100%;
+    padding: 5px;
+}
+
+textarea{
+    width: 45%;
+    border-radius: 10px;
+}
+
+.btn-submit{
+    text-align: center;
+}
+.btn-submit button{
+    padding:5px 20px 5px 20px;
+    border-radius: 10px;
+}
